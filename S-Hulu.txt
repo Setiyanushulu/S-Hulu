@@ -2,3 +2,4 @@ S-Hulu Resolusi
 - Konsisten Belajar Pemrograman Web
 - Membuat Platform Pencarian dan Penemuan Barang Hilang
 - Membuat platform Silsilah keturunan keluarga
+- Belajar Pemrograman Java
